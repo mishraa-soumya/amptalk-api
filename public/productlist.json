@@ -22,28 +22,28 @@
                 "name": "Nature in Green - Image 3",
                 "color": "green",
                 "orientation": "Portrait",
-                "imageUrl": "https://amptalk-api-555fd.firebaseapp.com/images/green/green_3.jpg"
+                "imageUrl": "https://amptalk-api-555fd.firebaseapp.com/images/green/green_3.jpeg"
             },
             {
                 "id": 4,
                 "name": "Nature in Green - Image 4",
                 "color": "green",
                 "orientation": "Portrait",
-                "imageUrl": "https://amptalk-api-555fd.firebaseapp.com/images/green/green_4.jpg"
+                "imageUrl": "https://amptalk-api-555fd.firebaseapp.com/images/green/green_4.jpeg"
             },
             {
                 "id": 5,
                 "name": "Nature in Green - Image 5",
                 "color": "green",
                 "orientation": "Portrait",
-                "imageUrl": "https://amptalk-api-555fd.firebaseapp.com/images/green/green_5.jpg"
+                "imageUrl": "https://amptalk-api-555fd.firebaseapp.com/images/green/green_5.jpeg"
             },
             {
                 "id": 6,
                 "name": "Nature in Yellow - Image 1",
                 "color": "yellow",
                 "orientation": "Portrait",
-                "imageUrl": "https://amptalk-api-555fd.firebaseapp.com/images/yellow/yellow_1.jpg"
+                "imageUrl": "https://amptalk-api-555fd.firebaseapp.com/images/yellow/yellow_1.jpeg"
             },
             {
                 "id": 7,
@@ -57,49 +57,49 @@
                 "name": "Nature in Yellow - Image 3",
                 "color": "yellow",
                 "orientation": "Portrait",
-                "imageUrl": "https://amptalk-api-555fd.firebaseapp.com/images/yellow/yellow_3.jpg"
+                "imageUrl": "https://amptalk-api-555fd.firebaseapp.com/images/yellow/yellow_3.jpeg"
             },
             {
                 "id": 9,
                 "name": "Nature in Yellow - Image 4",
                 "color": "green",
                 "orientation": "Portrait",
-                "imageUrl": "https://amptalk-api-555fd.firebaseapp.com/images/yellow/yellow_4.jpg"
+                "imageUrl": "https://amptalk-api-555fd.firebaseapp.com/images/yellow/yellow_4.jpeg"
             },
             {
                 "id": 10,
                 "name": "Nature in Yellow - Image 5",
                 "color": "yellow",
                 "orientation": "Portrait",
-                "imageUrl": "https://amptalk-api-555fd.firebaseapp.com/images/yellow/yellow_5.jpg"
+                "imageUrl": "https://amptalk-api-555fd.firebaseapp.com/images/yellow/yellow_5.jpeg"
             },
             {
                 "id": 11,
                 "name": "Nature in Red - Image 1",
                 "color": "red",
                 "orientation": "Portrait",
-                "imageUrl": "https://amptalk-api-555fd.firebaseapp.com/images/red/red_1.jpg"
+                "imageUrl": "https://amptalk-api-555fd.firebaseapp.com/images/red/red_1.jpeg"
             },
             {
                 "id": 12,
                 "name": "Nature in Red - Image 2",
                 "color": "red",
                 "orientation": "Portrait",
-                "imageUrl": "https://amptalk-api-555fd.firebaseapp.com/images/red/red_2.jpg"
+                "imageUrl": "https://amptalk-api-555fd.firebaseapp.com/images/red/red_2.jpeg"
             },
             {
                 "id": 13,
                 "name": "Nature in Red - Image 3",
                 "color": "red",
                 "orientation": "Portrait",
-                "imageUrl": "https://amptalk-api-555fd.firebaseapp.com/images/red/red_3.jpg"
+                "imageUrl": "https://amptalk-api-555fd.firebaseapp.com/images/red/red_3.jpeg"
             },
             {
                 "id": 14,
                 "name": "Nature in Red - Image 4",
                 "color": "red",
                 "orientation": "Portrait",
-                "imageUrl": "https://amptalk-api-555fd.firebaseapp.com/images/red/red_4.jpg"
+                "imageUrl": "https://amptalk-api-555fd.firebaseapp.com/images/red/red_4.jpeg"
             },
             {
                 "id": 15,
