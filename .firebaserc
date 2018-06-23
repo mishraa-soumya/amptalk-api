@@ -1,6 +1,7 @@
 {
   "projects": {
     "staging": "amptalk-api-555fd",
-    "alpha": "amptalk-api-555fd"
+    "alpha": "amptalk-api-555fd",
+    "default": "amptalk-api-555fd"
   }
 }

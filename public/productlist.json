@@ -1,6 +1,6 @@
 {
     "data": {
-        "label": "ABC",
+        "label": "Colors of Nature",
         "count": 15,
         "data": [
             {
@@ -110,5 +110,19 @@
             }
 
         ]
-    }
+    },
+    "filterOptions": [
+        {
+            "id": 1,
+            "label": "RED"
+        },
+        {
+            "id": 2,
+            "label": "YELLOW"
+        },
+        {
+            "id": 3,
+            "label": "GREEN"
+        }
+    ]
 }
