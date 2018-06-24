@@ -1,0 +1,39 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "name": "Nature in Green - Image 1",
+            "color": "green",
+            "orientation": "Portrait",
+            "imageUrl": "https://amptalk-api-555fd.firebaseapp.com/images/green/green_1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Nature in Green - Image 2",
+            "color": "green",
+            "orientation": "Portrait",
+            "imageUrl": "https://amptalk-api-555fd.firebaseapp.com/images/green/green_2.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Nature in Green - Image 3",
+            "color": "green",
+            "orientation": "Portrait",
+            "imageUrl": "https://amptalk-api-555fd.firebaseapp.com/images/green/green_3.jpeg"
+        },
+        {
+            "id": 4,
+            "name": "Nature in Green - Image 4",
+            "color": "green",
+            "orientation": "Portrait",
+            "imageUrl": "https://amptalk-api-555fd.firebaseapp.com/images/green/green_4.jpeg"
+        },
+        {
+            "id": 5,
+            "name": "Nature in Green - Image 5",
+            "color": "green",
+            "orientation": "Portrait",
+            "imageUrl": "https://amptalk-api-555fd.firebaseapp.com/images/green/green_5.jpeg"
+        }
+    ]
+}

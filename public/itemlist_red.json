@@ -1,0 +1,40 @@
+{
+    "items": [
+        {
+            "id": 11,
+            "name": "Nature in Red - Image 1",
+            "color": "red",
+            "orientation": "Portrait",
+            "imageUrl": "https://amptalk-api-555fd.firebaseapp.com/images/red/red_1.jpeg"
+        },
+        {
+            "id": 12,
+            "name": "Nature in Red - Image 2",
+            "color": "red",
+            "orientation": "Portrait",
+            "imageUrl": "https://amptalk-api-555fd.firebaseapp.com/images/red/red_2.jpeg"
+        },
+        {
+            "id": 13,
+            "name": "Nature in Red - Image 3",
+            "color": "red",
+            "orientation": "Portrait",
+            "imageUrl": "https://amptalk-api-555fd.firebaseapp.com/images/red/red_3.jpeg"
+        },
+        {
+            "id": 14,
+            "name": "Nature in Red - Image 4",
+            "color": "red",
+            "orientation": "Portrait",
+            "imageUrl": "https://amptalk-api-555fd.firebaseapp.com/images/red/red_4.jpeg"
+        },
+        {
+            "id": 15,
+            "name": "Nature in Red - Image 5",
+            "color": "red",
+            "orientation": "Portrait",
+            "imageUrl": "https://amptalk-api-555fd.firebaseapp.com/images/red/red_5.jpg"
+        }
+
+    ]
+}

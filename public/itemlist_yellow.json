@@ -1,0 +1,39 @@
+{
+    "items": [
+        {
+            "id": 6,
+            "name": "Nature in Yellow - Image 1",
+            "color": "yellow",
+            "orientation": "Portrait",
+            "imageUrl": "https://amptalk-api-555fd.firebaseapp.com/images/yellow/yellow_1.jpeg"
+        },
+        {
+            "id": 7,
+            "name": "Nature in Yellow - Image 2",
+            "color": "yellow",
+            "orientation": "Portrait",
+            "imageUrl": "https://amptalk-api-555fd.firebaseapp.com/images/yellow/yellow_2.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Nature in Yellow - Image 3",
+            "color": "yellow",
+            "orientation": "Portrait",
+            "imageUrl": "https://amptalk-api-555fd.firebaseapp.com/images/yellow/yellow_3.jpeg"
+        },
+        {
+            "id": 9,
+            "name": "Nature in Yellow - Image 4",
+            "color": "yellow",
+            "orientation": "Portrait",
+            "imageUrl": "https://amptalk-api-555fd.firebaseapp.com/images/yellow/yellow_4.jpeg"
+        },
+        {
+            "id": 10,
+            "name": "Nature in Yellow - Image 5",
+            "color": "yellow",
+            "orientation": "Portrait",
+            "imageUrl": "https://amptalk-api-555fd.firebaseapp.com/images/yellow/yellow_5.jpeg"
+        }
+    ]
+}
