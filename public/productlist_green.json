@@ -2,7 +2,7 @@
     "data": {
         "label": "Nature in Green",
         "count": 5,
-        "data": [
+        "products": [
             {
                 "id": 1,
                 "name": "Nature in Green - Image 1",
